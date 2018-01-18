@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TargetBadBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayAgain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="117" Column="20" />
+      <File FileName="Assets\Scripts\TargetBehavior.cs" Line="21" Column="4" />
+      <File FileName="Assets\Scripts\SpawnGameObjects.cs" Line="41" Column="40" />
+      <File FileName="Assets\Scripts\TargetBadBehaviour.cs" Line="41" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
